@@ -1,0 +1,43 @@
+.main{
+    border:2px solid ;
+    padding: 1em 1em 1em 1em;
+    width: 60%;
+    background-color: lightgray ;
+}
+.tituloh2{
+    text-align: center;
+}
+.inputNuevaTarea{
+    width: 80%;
+}
+.parrafoNuevaTarea{
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.subcontainer{
+    display: flex;
+    flex-direction: row;
+}
+.div1{
+    margin-right: 14rem;
+}
+.div2{
+    display: flex;
+}
+.boton{
+    background-color: darkgreen;
+    color: white;
+    font-weight: 300;
+}
+
+.parrafototaltareas{
+    display: flex;
+}
+.botonborrar{
+    border: none;
+    background: none;
+    padding: 0;
+    font-size: 12px;
+    cursor: pointer;
+    outline: none;
+}
